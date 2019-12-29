@@ -1,4 +1,2 @@
-# Lab 1 - Electric Field
-
-####  
+# Lab 1
 
