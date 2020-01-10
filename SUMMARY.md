@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction and Lab 0](README.md)
 * [Lab 1 - Electric Field](lab-1.md)
 * [Lab 2 - EKG](lab-2-ekg.md)
 * [Lab 3 - Capacitance](lab-3-capacitance.md)

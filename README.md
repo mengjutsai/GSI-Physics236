@@ -1,4 +1,4 @@
-# Introduction
+# Introduction and Lab 0
 
 ## Introduction
 
@@ -14,6 +14,12 @@ Here are some examples to use as a calculator:
 
 * [Microsoft EXCEL tutorial - easy calculation](https://support.office.com/en-us/article/use-excel-as-your-calculator-a1abc057-ed11-443a-a635-68216555ad0a)
 * [How to swap the cells \(between x and y axes\) when using scatter plots](https://www.engineerexcel.com/3-ways-update-scatter-chart-excel/)
+
+### Digital Multimeters \(DMM\)
+
+Some [instructions](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter) about DMM
+
+![https://images.app.goo.gl/nPgU9kV7AjYtTC8R9](.gitbook/assets/amprobe-multimeter_img.jpg)
 
 ### General grading rubrics
 
