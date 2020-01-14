@@ -17,26 +17,7 @@ Here are some examples to use as a calculator:
 
 ### Digital Multimeters \(DMM\)
 
-Some [instructions](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter) about DMM
-
 ![https://images.app.goo.gl/nPgU9kV7AjYtTC8R9](.gitbook/assets/amprobe-multimeter_img.jpg)
 
-### General grading rubrics
 
-#### Generic rules
-
-When answering the problems in the spreadsheets, please add the units in answer. For example, when you measure a length of a stuff, please write the answer of 10 cm instead of just 10. 
-
-* Units should be added in your answers
-* 
-#### If there is some weird data 
-
-If you measure something not expected, it will be better to remeasure again and check the configuration is correct. If all stuffs are setup right, you probably need to think it detailedly why the data is not as you expect and explain in the spreadsheet. 
-
-If the data are way different to the expected value and no explanation about the source of the error \(or uncertainty\), you will be took off points. 
-
-#### Plotting 
-
-* Add axis label with units
-* If needed, you need to add the trend line 
 
