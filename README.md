@@ -19,5 +19,7 @@ Here are some examples to use as a calculator:
 
 ![https://images.app.goo.gl/nPgU9kV7AjYtTC8R9](.gitbook/assets/amprobe-multimeter_img.jpg)
 
+### Resistor color code
 
+[https://en.wikipedia.org/wiki/Electronic\_color\_code](https://en.wikipedia.org/wiki/Electronic_color_code)
 
