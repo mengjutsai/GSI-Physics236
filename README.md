@@ -1,11 +1,5 @@
 # Introduction and Lab 0
 
-## Introduction
-
-In my point of view, the main purpose for this lab will let you understand how to do experiments systematically. With the understanding of the physics backgrounds, you will see how the physics work in the real world. Then try to use the theory and compare to what you observe in the experiment, and analyze how this theory and observation connect. 
-
-In this labs, EXCEL is powerful tool for you to analyze data. Please try to use functions inside the EXCEL instead of using calculators, since EXCEL will be way powerful than your calculators. 
-
 ### Data Analysis with EXCEL
 
 Since we'll use the EXCEL to record our data, we will also be benefit to use the spreadsheet as the calculator or tool for data analysis. 
@@ -17,26 +11,9 @@ Here are some examples to use as a calculator:
 
 ### Digital Multimeters \(DMM\)
 
-Some [instructions](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-multimeter) about DMM
-
 ![https://images.app.goo.gl/nPgU9kV7AjYtTC8R9](.gitbook/assets/amprobe-multimeter_img.jpg)
 
-### General grading rubrics
+### Resistor color code
 
-#### Generic rules
-
-When answering the problems in the spreadsheets, please add the units in answer. For example, when you measure a length of a stuff, please write the answer of 10 cm instead of just 10. 
-
-* Units should be added in your answers
-* 
-#### If there is some weird data 
-
-If you measure something not expected, it will be better to remeasure again and check the configuration is correct. If all stuffs are setup right, you probably need to think it detailedly why the data is not as you expect and explain in the spreadsheet. 
-
-If the data are way different to the expected value and no explanation about the source of the error \(or uncertainty\), you will be took off points. 
-
-#### Plotting 
-
-* Add axis label with units
-* If needed, you need to add the trend line 
+[https://en.wikipedia.org/wiki/Electronic\_color\_code](https://en.wikipedia.org/wiki/Electronic_color_code)
 
