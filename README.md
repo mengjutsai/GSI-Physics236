@@ -2,7 +2,7 @@
 
 ### Data Analysis with EXCEL
 
-Since we'll use the EXCEL to record our data, we will also be benefit to use the spreadsheet as the calculator or tool for data analysis. 
+Since we'll use the EXCEL to record our data, it will also be benefit to use the spreadsheet as the calculator or tool for data analysis. 
 
 Here are some examples to use as a calculator: 
 
