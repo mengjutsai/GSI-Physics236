@@ -2,7 +2,7 @@
 
 #### Mini-Lecture
 
-![](.gitbook/assets/236-lab2.jpg)
+![](.gitbook/assets/236-lab2-1.jpg)
 
 Reminder for the grading of rest labs
 
